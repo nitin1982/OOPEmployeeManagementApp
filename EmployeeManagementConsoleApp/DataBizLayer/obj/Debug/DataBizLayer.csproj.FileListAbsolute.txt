@@ -1,0 +1,6 @@
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\DataBizLayer\bin\Debug\DataBizLayer.dll
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\DataBizLayer\bin\Debug\DataBizLayer.pdb
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\DataBizLayer\obj\Debug\DataBizLayer.csprojAssemblyReference.cache
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\DataBizLayer\obj\Debug\DataBizLayer.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\DataBizLayer\obj\Debug\DataBizLayer.dll
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\DataBizLayer\obj\Debug\DataBizLayer.pdb

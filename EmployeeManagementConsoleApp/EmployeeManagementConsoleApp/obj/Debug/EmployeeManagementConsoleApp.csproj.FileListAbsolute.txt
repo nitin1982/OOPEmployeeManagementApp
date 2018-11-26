@@ -1,0 +1,10 @@
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\bin\Debug\EmployeeManagementConsoleApp.exe.config
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\bin\Debug\EmployeeManagementConsoleApp.exe
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\bin\Debug\EmployeeManagementConsoleApp.pdb
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\bin\Debug\DataBizLayer.dll
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\bin\Debug\DataBizLayer.pdb
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\obj\Debug\EmployeeManagementConsoleApp.csprojAssemblyReference.cache
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\obj\Debug\EmployeeManagementConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\obj\Debug\EmployeeManagementConsoleApp.csproj.CopyComplete
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\obj\Debug\EmployeeManagementConsoleApp.exe
+C:\Users\nitin\Desktop\ProjectSample\EmployeeManagementConsoleApp\EmployeeManagementConsoleApp\obj\Debug\EmployeeManagementConsoleApp.pdb
